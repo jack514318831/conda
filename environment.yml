@@ -7,6 +7,11 @@ dependencies:
   - psutil
   - toolz
   - matplotlib
+  - scikit-image
+  - seaborn
+  - Pillow
+  - sphinx-gallery
+  - scikit-learn
   - dill
   - pandas
   - partd
